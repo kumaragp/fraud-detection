@@ -76,7 +76,7 @@ Beberapa temuan dari eksplorasi dataset:
 
 ## Tools & Teknologi
 
-- **Python** – Data processing and analysis
+- **Python 3.15** – Data processing and analysis
 - **Pandas** – Data manipulation
 - **NumPy** – Numerical computation
 - **Matplotlib** – Data visualization
